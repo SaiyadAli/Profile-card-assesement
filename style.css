@@ -1,0 +1,66 @@
+
+
+.poster
+{   
+    display:inline-block;
+    width:300px;
+    height:300px;
+    margin:0px;
+    background-color: aliceblue;
+
+}
+
+
+.card
+{   
+    /* background-color: rgb(43, 180, 63); */
+    display:inline-block;
+    width:33%;
+    padding:4.2% 4.2% ;
+    box-sizing:border-box;
+
+}
+.card-list
+{
+    display:inline-block;
+    /* background-color: aqua; */
+    width:100%;
+}
+.movie-name
+{  
+    padding-left:38%;
+
+}
+.watch-option
+{
+    margin-left:25%;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    border:solid 1px rgb(69, 23, 196);
+    height:35px;
+    width: 120px;
+    color:white;
+    background-color:rgb(15, 116, 232);
+    cursor: pointer;
+
+}
+.watch-option:hover
+{
+    background-color:white;
+    color:rgb(15, 116, 232);
+}
+
+
+ 
+.main-heading
+{
+    padding: 0px 10%;
+    text-align: center;
+    
+}
+
+.description{
+    text-align:center;
+    padding: 0px 10%;
+    font-size:23px;
+}
